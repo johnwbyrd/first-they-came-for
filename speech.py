@@ -2,7 +2,7 @@
 # long-winded parody of Martin Niemöller 
 
 # Wrap the output text into 80 columns?
-wrap = False
+wrap = True
 
 import textwrap
 
@@ -85,11 +85,11 @@ exceptions = {
     'Dutch': 'Dutch',
     'Danish': 'Danish',
     "Jehovah's Witnesses": "a Jehovah's Witness",
-    'the deaf': 'deaf',
     'Christian clergy': 'clergy',
     'Amish': 'Amish',
     'lesbians': 'lesbian',
     'transgender people': 'transgender',
+    'deaf': 'deaf',
     }
 
 first = True
