@@ -9,7 +9,7 @@ stands to reason that the more examples added, the higher the rhetorical
 effect.  But that would mean taking the trouble to type them all out.
 Clearly this is a job for software.
 
-# Example output.
+## Example output
 
 Output from this program might look something like this:
 
@@ -27,7 +27,7 @@ into the script.
 
 To run the script, run the script.
  
-# Requirements
+## Requirements
 
 Python 3.  Can't you fucking read?  I just told you that you needed Python
 3.  Sheesh.  Some people.
