@@ -2,7 +2,7 @@
 # long-winded parody of Martin Niemöller 
 
 # Wrap the output text into 80 columns?
-wrap = True
+wrap = False
 
 import textwrap
 
